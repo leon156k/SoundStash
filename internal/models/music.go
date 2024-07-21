@@ -8,3 +8,4 @@ type Music struct {
     Album  string
     Genre  string
     // Add more fields as needed
+}
